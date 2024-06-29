@@ -1,17 +1,17 @@
 
 <h1 align="center">Hola 👋, Soy Felipe Zurzolo Garcia</h1>
 <h3 align="center">Data Analyst | BI Analyst | Lic. en Economía Empresarial</h3>
-<h4> Como Licenciado en Economía Empresarial y analista de datos con mas de 4 años de experiencia, he perfeccionado mis conocimientos en una variedad de herramientas de análisis de datos y lenguajes de programación, incluidos Python, R, Power BI, Tableau, Looker Studio y SQL. </h4>
+<h4> Como Licenciado en Economía Empresarial y analista de datos con más de 4 años de experiencia, he perfeccionado mis conocimientos en una variedad de herramientas de análisis de datos y lenguajes de programación, incluidos Python, R, Power BI, Tableau, Looker Studio y SQL. </h4>
 
-- 🔭 El ultimo proyecto que estuve trabajando con Python: [Análisis Exploratorio de Datos con Python: Netflix_Movies](https://github.com/FZetaG/Python_Netflix_Movies)
+- 🔭 El último proyecto que estuve trabajando con Python: [Análisis Exploratorio de Datos con Python: Netflix_Movies](https://github.com/FZetaG/Python_Netflix_Movies)
 
-- 🔭 También estuve desarrollando este proyecto en SQL [Análisis Exploratorio de Datos con SQL: ATP Tennis Grand Slam 2000-2019](https://github.com/FZetaG/ATP-Tennis-GS-2000-2019-Data-Analysis-with-SQL)
+- 🔭 También estuve desarrollando el siguiente proyecto en SQL: [Análisis Exploratorio de Datos con SQL: ATP Tennis Grand Slam 2000-2019](https://github.com/FZetaG/ATP-Tennis-GS-2000-2019-Data-Analysis-with-SQL)
 
 - 🌱 Sigo aprendiendo y perfeccionándome en **Python, R, SQL, Power BI, Tableau y Looker Studio**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/FZetaG](https://github.com/FZetaG)
 
-<h3 align="left">Conectate conmigo:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/felipe-zurzolo-garcia-4163b3168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/felipe-zurzolo-garcia-4163b3168" height="30" width="40" /></a>
 </p>
