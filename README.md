@@ -1,11 +1,7 @@
 
 <h1 align="center">Hola 👋, Soy Felipe Zurzolo Garcia</h1>
 <h3 align="center">Data Analyst | BI Analyst | Lic. en Economía Empresarial</h3>
-<h4> Como Licenciado en Economía Empresarial y analista de datos con experiencia , aporto una combinación de visión para los negocios y habilidades analíticas para impulsar conocimientos basados ​​en datos y una toma de decisiones informada. Me apasiona descubrir patrones ocultos y transformar datos complejos en conocimiento procesable.  
-
-A lo largo de mis 4 años de experiencia, he perfeccionado mis conocimientos en una variedad de herramientas de análisis de datos y lenguajes de programación, incluidos **Python, R, Power BI, Tableau, Looker Studio y SQL** . Soy competente en la extracción, limpieza y transformación de datos de diversas fuentes, lo que me permite desarrollar dashboards, informes y visualizaciones integrales que comunican conocimientos de manera efectiva a las partes interesadas.  
-
-Mi entusiasmo por el análisis de datos se extiende más allá de mis actividades profesionales. Busco constantemente nuevos desafíos y oportunidades para ampliar mis conocimientos y habilidades. Este enfoque de aprendizaje continuo garantiza que me mantenga a la vanguardia de las técnicas y tecnologías de análisis de datos.</h4>
+<h4> Como Licenciado en Economía Empresarial y analista de datos con mas de 4 años de experiencia, he perfeccionado mis conocimientos en una variedad de herramientas de análisis de datos y lenguajes de programación, incluidos Python, R, Power BI, Tableau, Looker Studio y SQL. </h4>
 
 - 🔭 El ultimo proyecto que estuve trabajando con Python: [Análisis Exploratorio de Datos con Python: Netflix_Movies](https://github.com/FZetaG/Python_Netflix_Movies)
 
