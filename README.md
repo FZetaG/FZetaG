@@ -3,7 +3,7 @@
 <h3 align="center">Data Analyst | BI Analyst | Lic. en Economía Empresarial</h3>
 <h4> Como Licenciado en Economía Empresarial y analista de datos con más de 4 años de experiencia, he perfeccionado mis conocimientos en una variedad de herramientas de análisis de datos y lenguajes de programación, incluidos Python, R, Power BI, Tableau, Looker Studio y SQL. </h4>
 
-- 🔭 El último proyecto que estuve trabajando con Python: [Análisis Exploratorio de Datos con Python: Netflix_Movies](https://github.com/FZetaG/Python_Netflix_Movies)
+- 🔭 Los últimos proyectos que estuve trabajando con Python: [Análisis Exploratorio de Datos con Python: Netflix_Movies](https://github.com/FZetaG/Python_Netflix_Movies) y [Análisis Exploratorio de Datos con Python: historia de los ganadores del premio Nobel](https://github.com/FZetaG/History-of-Nobel-Prize-Winners.git)
 
 - 🔭 También estuve desarrollando el siguiente proyecto en SQL: [Análisis Exploratorio de Datos con SQL: ATP Tennis Grand Slam 2000-2019](https://github.com/FZetaG/ATP-Tennis-GS-2000-2019-Data-Analysis-with-SQL)
 
